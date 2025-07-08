@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🌸 Hi, I'm Angelica (Seraphxiel)!
 
-<!--
-**Seraphxiel/Seraphxiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Incoming 3rd year **BSIT student at Polytechnic University of the Philippines**  
+✨ Aspiring **Full Stack Developer** with experience in creating **games and websites**  
+🌱 Currently expanding my skills in **various programming languages and deep learning concepts**  
+💡 Passionate about building **elegant, meaningful, and user-centered solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seraphxiel&show_icons=true&theme=tokyonight)](https://github.com/Seraphxiel)
+
+---
+
+⭐ *“Code with purpose, build with grace.”*
+
