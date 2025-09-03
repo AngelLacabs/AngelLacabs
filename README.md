@@ -1,9 +1,10 @@
 ### 🌸 Hi, I'm Angelica (Seraphxiel)!
 
-👩🏻‍💻 Incoming 3rd year **BSIT student at Polytechnic University of the Philippines**  
-✨ Aspiring **Full Stack Developer** with experience in creating **games and websites**  
-🌱 Currently expanding my skills in **various programming languages and deep learning concepts**  
-💡 Passionate about building **elegant, meaningful, and user-centered solutions**
+👩🏻‍💻 I am now a **3rd year BSIT student at the Polytechnic University of the Philippines**
+💻 Still aspiring **Full Stack Developer**
+🎯 With a main goal: **pass 3rd year** → graduate → knowledge → **booOOom 500k** 🚀
+🌱 Currently focused on improving my skills **Don't really sure if i have this haki though**
+🧠 **OP in concepts** | 🎨 **Nerfed in design** | 🔄 **Buffed in consistency**
 
 ---
 
