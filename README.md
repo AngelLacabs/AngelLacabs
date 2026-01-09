@@ -10,14 +10,11 @@ Still aspiring **Full Stack Developer**
 
 # My stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelLacabs&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-  
-  <br><br> <!-- This adds space between the two images -->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelLacabs&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
 
 
+![AngelLacabs GitHub stats](https://github-stats-wjba.vercel.app/api?username=AngelLacabs&show_icons=true&theme=radical)
+
+![Top Languages](https://github-stats-wjba.vercel.app/api/top-langs/?username=AngelLacabs&layout=compact&theme=radical)
 
 
 # Skills:
